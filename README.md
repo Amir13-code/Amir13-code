@@ -22,3 +22,25 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+### Projects 🚀
+<p align="left">
+  <a href="https://azabrau-site.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Azabrau-Live-red?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/Amir13-code/AZABRAU" target="_blank">
+    <img src="https://img.shields.io/badge/Azabrau-Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Frontend Repo" />
+  </a>
+  <a href="https://github.com/Amir13-code/azabrau-back-end" target="_blank">
+    <img src="https://img.shields.io/badge/Azabrau-Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="Backend Repo" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://neworskin.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/NewOrSkin-Live-red?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/muradorucov/neworskin" target="_blank">
+    <img src="https://img.shields.io/badge/NewOrSkin-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+  </a>
+</p>
