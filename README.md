@@ -2,10 +2,10 @@
 
 ### Full Stack Developer 💻
 
+### GitHub Stats
 <p align="left">
-  <a href="https://github.com/Amir13-code">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amir13-code&show_icons=true&theme=radical&hide_border=true" alt="Amir13-code stats" />
-  </a>
+  <img src="https://img.shields.io/badge/Total_Contributions-119-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current_Streak-0-orange?style=for-the-badge" />
 </p>
 
 ### Connect with me:
