@@ -1,16 +1,15 @@
-## Hi there 👋
+# Salam! Mən Amir Ahmedov <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**Amir13-code/Amir13-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Amir, Full Stack Developer 💻
 
-Here are some ideas to get you started:
+<p align="left"> 
+<img src="https://github-readme-stats.vercel.app/api?username=Amir13-code&show_icons=true&theme=radical" alt="Amir13-code" />
+<img src="https://github-profile-trophy.vercel.app/?username=Amir13-code&theme=radical" alt="Amir13-code" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+<p align="left">
+<a href="https://github.com/Amir13-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amir.ahmedov13?igsh=cXNudDhsMjM1ZWF1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amir-ahmedov-code?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+</p>
