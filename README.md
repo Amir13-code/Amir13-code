@@ -4,8 +4,8 @@
 
 ### GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir13-code&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Amir13-code&theme=radical" />
+  <img src="https://img.shields.io/badge/Total_Contributions-119-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current_Streak-0-orange?style=for-the-badge" />
 </p>
 
 ### Connect with me:
