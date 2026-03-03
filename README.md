@@ -2,9 +2,10 @@
 
 ### I'm Amir, Full Stack Developer 💻
 
-<p align="left"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Amir13-code&show_icons=true&theme=radical" alt="Amir13-code" />
-<img src="https://github-profile-trophy.vercel.app/?username=Amir13-code&theme=radical" alt="Amir13-code" />
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir13-code&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amir13-code&theme=radical" />
 </p>
 
 ### Connect with me:
